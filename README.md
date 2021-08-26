@@ -11,4 +11,4 @@ Cientista de Dados.
 - Gosto de ficar com meus netos
 - Administro a minha casa
 - Gosto de novos desafios
-
+- Tenho 61yo
