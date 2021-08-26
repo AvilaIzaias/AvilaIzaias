@@ -12,3 +12,4 @@ Cientista de Dados.
 - Administro a minha casa
 - Gosto de novos desafios
 - Tenho 61yo
+ 
